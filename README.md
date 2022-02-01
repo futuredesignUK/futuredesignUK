@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 🔭 DevOps Manager [@nationalphysicallaboratory](https://github.com/NationalPhysicalLaboratory) - Azure, GitHub & GitLab
 - 🌱 Learning Terraform & AWS
 - 💬 [sam.hope-evans.com](https://sam.hope-evans.com/)
-- ❤️ :martial_arts_uniform: 🥊 🎧 :control_knobs: :earth_africa:
+- ❤️ :martial_arts_uniform: 🥊 🎧 :control_knobs: :performing_arts: :earth_africa:
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=futuredesignUK&show_icons=true)
 

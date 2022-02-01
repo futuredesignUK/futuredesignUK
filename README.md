@@ -6,12 +6,10 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Digital Products in Azure
-- 🌱 I’m currently learning Terraform & AWS
-- 👯 I’m looking to collaborate on ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: He / Him
-- ⚡ Fun fact: ...
+- 🔭 Working on Digital Products in Azure
+- 🌱 Learning Terraform & AWS
+- 💬 [sam.hope-evans.com](https://sam.hope-evans.com/)
+- ⚡ Fun fact: ❤️ Taekwondo 🥊 🎧 :control_knobs: 
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=futuredesignUK&show_icons=true)
 

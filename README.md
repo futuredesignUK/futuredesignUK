@@ -6,10 +6,10 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 Working with DevOps in Azure & GitLab @nationalphysicallaboratory
+- 🔭 Working with DevOps in Azure & GitLab [@nationalphysicallaboratory](https://github.com/NationalPhysicalLaboratory)
 - 🌱 Learning Terraform & AWS
-- 💬 Blog [sam.hope-evans.com](https://sam.hope-evans.com/)
-- ❤️ :martial_arts_uniform: 🥊 🎧 :control_knobs: 
+- 💬 [sam.hope-evans.com](https://sam.hope-evans.com/)
+- ❤️ :martial_arts_uniform: 🥊 🎧 :control_knobs: :earth_africa:
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=futuredesignUK&show_icons=true)
 

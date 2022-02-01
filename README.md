@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 
 [My GitHub Skyline for 2021](https://skyline.github.com/futuredesignuk/2021)
 
+![image](https://user-images.githubusercontent.com/19208973/151967832-0273ef50-45c8-4433-8f64-e1624b6e1bbe.png)
+
+
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=futuredesignUK&show_icons=true)
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=futuredesignUK&theme=blue-green)

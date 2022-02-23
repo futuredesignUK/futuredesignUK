@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 - :ninja: DevOps Manager [@nationalphysicallaboratory](https://github.com/NationalPhysicalLaboratory) - Azure, GitHub & GitLab
-- 🌱 Learning Terraform & AWS
+- 🌱 Learning AWS & Terraform
 - 💬 [sam.hope-evans.com](https://sam.hope-evans.com/)
 - ❤️ :martial_arts_uniform: 🥊 🎧 :control_knobs: :performing_arts: :earth_africa:
 

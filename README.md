@@ -6,7 +6,7 @@ https://www.makeuseof.com/badges-that-will-supercharge-your-github-repository/#:
 https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/managing-contribution-graphs-on-your-profile/viewing-contributions-on-your-profile
 -->
 
-- :ninja: DevOps Manager [@nationalphysicallaboratory](https://github.com/NationalPhysicalLaboratory) - Azure, GitHub & GitLab
+- :ninja:
 - 🌱 Learning AWS, Terraform & 3rd Dan 🥋
 - 💬 [sam.hope-evans.com](https://sam.hope-evans.com/)
 - ❤️ :martial_arts_uniform: 🥊 🎧 :control_knobs: :performing_arts: :earth_africa:

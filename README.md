@@ -7,7 +7,8 @@ https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-gith
 -->
 
 - :ninja: Solutions Engineer @ GitHub
-- 🌱 3rd Dan 🥋
+- 🥋 2nd Dan
+- 🎧 DJ
 - 💬 [sam.hope-evans.com](https://sam.hope-evans.com/)
 - ❤️ :martial_arts_uniform: 🥊 🎧 :control_knobs: :performing_arts: :earth_africa:
 

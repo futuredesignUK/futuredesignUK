@@ -6,7 +6,7 @@ https://www.makeuseof.com/badges-that-will-supercharge-your-github-repository/#:
 https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/managing-contribution-graphs-on-your-profile/viewing-contributions-on-your-profile
 -->
 
-- :ninja: Solutions Engineer @ GitHub
+- :ninja: Solutions Architect @ SoundCloud
 - 🥋 2nd Dan
 - 🎧 [SoundCloud](https://soundcloud.com/scratchsam)
 - 💬 [sam.hope-evans.com](https://sam.hope-evans.com/)

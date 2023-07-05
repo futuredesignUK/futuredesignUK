@@ -9,7 +9,7 @@ https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-gith
 - Solutions Architect @ SoundCloud
 - 🎧 [SoundCloud](https://soundcloud.com/scratchsam)
 - 💬 [sam.hope-evans.com](https://sam.hope-evans.com/)
-- ❤️ :martial_arts_uniform: 🥊 🎧 :control_knobs: :performing_arts: :earth_africa:
+- :martial_arts_uniform: 🥊 🎧 :control_knobs: :performing_arts: :earth_africa:
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=futuredesignUK&show_icons=true)
 

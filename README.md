@@ -13,8 +13,6 @@ https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-gith
 
 <!--![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=futuredesignUK&show_icons=true) -->
 
-[My GitHub Skyline for 2022](https://skyline.github.com/futuredesignuk/2022)
-
 ![image](https://user-images.githubusercontent.com/19208973/220679546-8198a366-bde1-4720-9f3b-0a46865e6e2f.png)
 
 <!--

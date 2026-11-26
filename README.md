@@ -6,7 +6,7 @@ https://www.makeuseof.com/badges-that-will-supercharge-your-github-repository/#:
 https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/managing-contribution-graphs-on-your-profile/viewing-contributions-on-your-profile
 -->
 
-- [Senior Solutions Architect @ SoundCloud](https://www.linkedin.com/in/samhopeevans/)
+- [LinkedIn](https://www.linkedin.com/in/samhopeevans/)
 - 🎧 [SoundCloud](https://soundcloud.com/scratchsam)
 - 💬 [sam.hope-evans.com](https://sam.hope-evans.com/)
 - :martial_arts_uniform: 🥊 🎧 :control_knobs: :performing_arts: :earth_africa:
